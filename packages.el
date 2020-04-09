@@ -21,7 +21,6 @@
     flycheck-plantuml
     undo-tree
     dired
-    ;; ggtags
     ;; (helm-gtags :toggle (configuration-layer/package-usedp 'helm))
     ;; xcscope
     ;; (helm-cscope :toggle (configuration-layer/package-usedp 'helm))
